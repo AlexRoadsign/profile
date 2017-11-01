@@ -1,0 +1,123 @@
+body {
+  background-color:#e3eff3;
+  font-family:'Roboto', sans-serif;
+  font-size: 30px;
+  letter-spacing: 5px;
+  line-height: 1,1;
+}
+
+h1 {
+  color:#8594e4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: 1,1;
+}
+
+h2 {
+  color:#6e828a;
+  font-family:'Roboto', sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 1,1;
+}
+
+h3 {
+  color:#cf0a2c;
+  font-family:'Montserrat', sans-serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 0,8;
+}
+
+h4 {
+  color:#cf0a2c;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  line-height: 0,2;
+}
+
+p {
+  color:#a5bfdd;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+p {
+  color:#a5bfdd;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+a {
+  color:#cde3eb;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover {
+  color:#a5bfdd;
+}
+
+.container {
+  width: 700px;
+  margin: 25px auto;
+}
+
+.card {
+  padding: 25px;
+  background-color:#f5f5f5;
+  margin: 10px;
+  border-radius: 3%
+}
+
+.card-profile {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.image-circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.image-thumbnail {
+  width: 150px;
+  border-radius: 3%;
+  margin-right: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+  letter-spacing: 2px;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+
+.red-btn {
+  display: inline-block;
+  background-color: #dc4444;
+  color: white;
+  padding: 10px;
+  margin: 50px;
+  border-radius: 4px;
+}
+.red-btn:hover {
+  color: white;
+}
